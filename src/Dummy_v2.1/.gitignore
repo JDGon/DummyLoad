@@ -1,0 +1,9 @@
+# Ignore all
+/*
+
+# Not ignore
+!.gitignore
+!Main.c
+!Main.h
+!Functions.h
+!/bin
